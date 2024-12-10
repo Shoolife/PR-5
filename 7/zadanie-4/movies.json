@@ -1,0 +1,3502 @@
+[
+    {
+        "title": "Movie_1",
+        "genre": "Fantasy",
+        "year": 2013,
+        "rating": 8.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_2",
+        "genre": "Drama",
+        "year": 1988,
+        "rating": 5.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_3",
+        "genre": "Adventure",
+        "year": 2014,
+        "rating": 6.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_4",
+        "genre": "Fantasy",
+        "year": 1993,
+        "rating": 5.7,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_5",
+        "genre": "Drama",
+        "year": 1986,
+        "rating": 9.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_6",
+        "genre": "Fantasy",
+        "year": 2019,
+        "rating": 5.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_7",
+        "genre": "Action",
+        "year": 2014,
+        "rating": 6.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_8",
+        "genre": "Sci-Fi",
+        "year": 2023,
+        "rating": 9.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_9",
+        "genre": "Adventure",
+        "year": 2006,
+        "rating": 6.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_10",
+        "genre": "Action",
+        "year": 2006,
+        "rating": 7.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_11",
+        "genre": "Comedy",
+        "year": 2004,
+        "rating": 8.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_12",
+        "genre": "Comedy",
+        "year": 2015,
+        "rating": 5.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_13",
+        "genre": "Crime",
+        "year": 1980,
+        "rating": 8.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_14",
+        "genre": "Crime",
+        "year": 2006,
+        "rating": 7.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_15",
+        "genre": "Fantasy",
+        "year": 2018,
+        "rating": 5.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_16",
+        "genre": "Drama",
+        "year": 1977,
+        "rating": 8.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_17",
+        "genre": "Sci-Fi",
+        "year": 2003,
+        "rating": 6.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_18",
+        "genre": "Drama",
+        "year": 1974,
+        "rating": 9.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_19",
+        "genre": "Sci-Fi",
+        "year": 1971,
+        "rating": 7.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_20",
+        "genre": "Fantasy",
+        "year": 1991,
+        "rating": 7.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_21",
+        "genre": "Adventure",
+        "year": 1976,
+        "rating": 5.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_22",
+        "genre": "Comedy",
+        "year": 1986,
+        "rating": 9.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_23",
+        "genre": "Adventure",
+        "year": 1991,
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_24",
+        "genre": "Horror",
+        "year": 2009,
+        "rating": 6.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_25",
+        "genre": "Horror",
+        "year": 1974,
+        "rating": 6.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_26",
+        "genre": "Drama",
+        "year": 1998,
+        "rating": 9.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_27",
+        "genre": "Adventure",
+        "year": 2012,
+        "rating": 5.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_28",
+        "genre": "Horror",
+        "year": 1978,
+        "rating": 8.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_29",
+        "genre": "Fantasy",
+        "year": 1998,
+        "rating": 7.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_30",
+        "genre": "Sci-Fi",
+        "year": 2005,
+        "rating": 7.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_31",
+        "genre": "Crime",
+        "year": 2008,
+        "rating": 7.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_32",
+        "genre": "Adventure",
+        "year": 2002,
+        "rating": 8.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_33",
+        "genre": "Sci-Fi",
+        "year": 1978,
+        "rating": 6.7,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_34",
+        "genre": "Fantasy",
+        "year": 1986,
+        "rating": 5.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_35",
+        "genre": "Adventure",
+        "year": 2000,
+        "rating": 9.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_36",
+        "genre": "Horror",
+        "year": 1977,
+        "rating": 8.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_37",
+        "genre": "Horror",
+        "year": 1981,
+        "rating": 5.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_38",
+        "genre": "Drama",
+        "year": 1975,
+        "rating": 5.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_39",
+        "genre": "Crime",
+        "year": 2010,
+        "rating": 6.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_40",
+        "genre": "Crime",
+        "year": 1996,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_41",
+        "genre": "Fantasy",
+        "year": 1974,
+        "rating": 5.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_42",
+        "genre": "Action",
+        "year": 1975,
+        "rating": 9.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_43",
+        "genre": "Comedy",
+        "year": 2018,
+        "rating": 9.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_44",
+        "genre": "Fantasy",
+        "year": 1986,
+        "rating": 8.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_45",
+        "genre": "Action",
+        "year": 1980,
+        "rating": 7.9,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_46",
+        "genre": "Adventure",
+        "year": 1976,
+        "rating": 9.7,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_47",
+        "genre": "Horror",
+        "year": 1990,
+        "rating": 9.1,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_48",
+        "genre": "Action",
+        "year": 1976,
+        "rating": 9.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_49",
+        "genre": "Action",
+        "year": 1992,
+        "rating": 6.4,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_50",
+        "genre": "Fantasy",
+        "year": 2018,
+        "rating": 9.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_51",
+        "genre": "Crime",
+        "year": 1992,
+        "rating": 7.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_52",
+        "genre": "Sci-Fi",
+        "year": 2019,
+        "rating": 9.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_53",
+        "genre": "Horror",
+        "year": 2019,
+        "rating": 9.2,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_54",
+        "genre": "Sci-Fi",
+        "year": 2016,
+        "rating": 5.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_55",
+        "genre": "Adventure",
+        "year": 2023,
+        "rating": 9.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_56",
+        "genre": "Adventure",
+        "year": 2023,
+        "rating": 7.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_57",
+        "genre": "Horror",
+        "year": 1993,
+        "rating": 6.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_58",
+        "genre": "Fantasy",
+        "year": 2021,
+        "rating": 5.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_59",
+        "genre": "Sci-Fi",
+        "year": 2001,
+        "rating": 6.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_60",
+        "genre": "Drama",
+        "year": 2011,
+        "rating": 5.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_61",
+        "genre": "Comedy",
+        "year": 2021,
+        "rating": 7.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_62",
+        "genre": "Horror",
+        "year": 1976,
+        "rating": 8.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_63",
+        "genre": "Comedy",
+        "year": 1992,
+        "rating": 5.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_64",
+        "genre": "Comedy",
+        "year": 2010,
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_65",
+        "genre": "Fantasy",
+        "year": 1993,
+        "rating": 5.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_66",
+        "genre": "Fantasy",
+        "year": 1973,
+        "rating": 8.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_67",
+        "genre": "Action",
+        "year": 2009,
+        "rating": 9.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_68",
+        "genre": "Action",
+        "year": 2005,
+        "rating": 8.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_69",
+        "genre": "Horror",
+        "year": 2007,
+        "rating": 5.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_70",
+        "genre": "Crime",
+        "year": 1996,
+        "rating": 8.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_71",
+        "genre": "Drama",
+        "year": 1992,
+        "rating": 8.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_72",
+        "genre": "Crime",
+        "year": 2002,
+        "rating": 9.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_73",
+        "genre": "Sci-Fi",
+        "year": 2023,
+        "rating": 8.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_74",
+        "genre": "Fantasy",
+        "year": 2011,
+        "rating": 6.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_75",
+        "genre": "Action",
+        "year": 2004,
+        "rating": 5.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_76",
+        "genre": "Horror",
+        "year": 1978,
+        "rating": 6.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_77",
+        "genre": "Horror",
+        "year": 1995,
+        "rating": 5.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_78",
+        "genre": "Comedy",
+        "year": 1975,
+        "rating": 8.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_79",
+        "genre": "Drama",
+        "year": 2000,
+        "rating": 5.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_80",
+        "genre": "Crime",
+        "year": 2014,
+        "rating": 9.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_81",
+        "genre": "Adventure",
+        "year": 1980,
+        "rating": 6.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_82",
+        "genre": "Sci-Fi",
+        "year": 2006,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_83",
+        "genre": "Drama",
+        "year": 2018,
+        "rating": 6.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_84",
+        "genre": "Fantasy",
+        "year": 1993,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_85",
+        "genre": "Horror",
+        "year": 2008,
+        "rating": 6.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_86",
+        "genre": "Fantasy",
+        "year": 1972,
+        "rating": 7.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_87",
+        "genre": "Adventure",
+        "year": 1985,
+        "rating": 5.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_88",
+        "genre": "Sci-Fi",
+        "year": 2007,
+        "rating": 7.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_89",
+        "genre": "Action",
+        "year": 1988,
+        "rating": 8.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_90",
+        "genre": "Sci-Fi",
+        "year": 2017,
+        "rating": 6.9,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_91",
+        "genre": "Sci-Fi",
+        "year": 2011,
+        "rating": 6.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_92",
+        "genre": "Drama",
+        "year": 1992,
+        "rating": 5.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_93",
+        "genre": "Sci-Fi",
+        "year": 1985,
+        "rating": 5.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_94",
+        "genre": "Crime",
+        "year": 1975,
+        "rating": 7.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_95",
+        "genre": "Drama",
+        "year": 1985,
+        "rating": 8.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_96",
+        "genre": "Comedy",
+        "year": 2011,
+        "rating": 8.6,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_97",
+        "genre": "Comedy",
+        "year": 2010,
+        "rating": 5.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_98",
+        "genre": "Adventure",
+        "year": 1999,
+        "rating": 5.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_99",
+        "genre": "Adventure",
+        "year": 2004,
+        "rating": 6.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_100",
+        "genre": "Fantasy",
+        "year": 2004,
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_101",
+        "genre": "Adventure",
+        "year": 1990,
+        "rating": 7.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_102",
+        "genre": "Adventure",
+        "year": 1970,
+        "rating": 5.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_103",
+        "genre": "Horror",
+        "year": 2001,
+        "rating": 8.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_104",
+        "genre": "Fantasy",
+        "year": 2021,
+        "rating": 7.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_105",
+        "genre": "Fantasy",
+        "year": 1995,
+        "rating": 8.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_106",
+        "genre": "Fantasy",
+        "year": 2014,
+        "rating": 8.3,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_107",
+        "genre": "Comedy",
+        "year": 2002,
+        "rating": 7.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_108",
+        "genre": "Horror",
+        "year": 1986,
+        "rating": 7.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_109",
+        "genre": "Fantasy",
+        "year": 1992,
+        "rating": 7.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_110",
+        "genre": "Action",
+        "year": 2023,
+        "rating": 8.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_111",
+        "genre": "Fantasy",
+        "year": 2009,
+        "rating": 8.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_112",
+        "genre": "Horror",
+        "year": 2017,
+        "rating": 6.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_113",
+        "genre": "Fantasy",
+        "year": 1993,
+        "rating": 8.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_114",
+        "genre": "Comedy",
+        "year": 2019,
+        "rating": 9.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_115",
+        "genre": "Horror",
+        "year": 2012,
+        "rating": 9.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_116",
+        "genre": "Horror",
+        "year": 2006,
+        "rating": 5.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_117",
+        "genre": "Drama",
+        "year": 1993,
+        "rating": 8.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_118",
+        "genre": "Horror",
+        "year": 2007,
+        "rating": 7.1,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_119",
+        "genre": "Fantasy",
+        "year": 1985,
+        "rating": 7.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_120",
+        "genre": "Action",
+        "year": 1985,
+        "rating": 5.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_121",
+        "genre": "Sci-Fi",
+        "year": 2022,
+        "rating": 8.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_122",
+        "genre": "Adventure",
+        "year": 1977,
+        "rating": 8.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_123",
+        "genre": "Comedy",
+        "year": 2023,
+        "rating": 5.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_124",
+        "genre": "Drama",
+        "year": 2023,
+        "rating": 5.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_125",
+        "genre": "Horror",
+        "year": 2007,
+        "rating": 7.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_126",
+        "genre": "Horror",
+        "year": 1993,
+        "rating": 7.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_127",
+        "genre": "Crime",
+        "year": 1974,
+        "rating": 9.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_128",
+        "genre": "Drama",
+        "year": 1989,
+        "rating": 8.1,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_129",
+        "genre": "Action",
+        "year": 2012,
+        "rating": 6.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_130",
+        "genre": "Comedy",
+        "year": 2018,
+        "rating": 8.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_131",
+        "genre": "Action",
+        "year": 1976,
+        "rating": 7.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_132",
+        "genre": "Crime",
+        "year": 2000,
+        "rating": 9.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_133",
+        "genre": "Horror",
+        "year": 1996,
+        "rating": 7.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_134",
+        "genre": "Horror",
+        "year": 2014,
+        "rating": 5.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_135",
+        "genre": "Fantasy",
+        "year": 1985,
+        "rating": 6.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_136",
+        "genre": "Fantasy",
+        "year": 2000,
+        "rating": 6.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_137",
+        "genre": "Action",
+        "year": 2008,
+        "rating": 7.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_138",
+        "genre": "Adventure",
+        "year": 1976,
+        "rating": 7.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_139",
+        "genre": "Crime",
+        "year": 2022,
+        "rating": 5.3,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_140",
+        "genre": "Crime",
+        "year": 1974,
+        "rating": 8.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_141",
+        "genre": "Fantasy",
+        "year": 1986,
+        "rating": 9.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_142",
+        "genre": "Fantasy",
+        "year": 1974,
+        "rating": 5.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_143",
+        "genre": "Horror",
+        "year": 2011,
+        "rating": 8.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_144",
+        "genre": "Comedy",
+        "year": 1972,
+        "rating": 5.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_145",
+        "genre": "Action",
+        "year": 1973,
+        "rating": 8.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_146",
+        "genre": "Sci-Fi",
+        "year": 2008,
+        "rating": 6.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_147",
+        "genre": "Crime",
+        "year": 1981,
+        "rating": 9.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_148",
+        "genre": "Crime",
+        "year": 1985,
+        "rating": 8.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_149",
+        "genre": "Horror",
+        "year": 1977,
+        "rating": 8.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_150",
+        "genre": "Fantasy",
+        "year": 1988,
+        "rating": 5.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_151",
+        "genre": "Drama",
+        "year": 1992,
+        "rating": 6.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_152",
+        "genre": "Comedy",
+        "year": 2009,
+        "rating": 7.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_153",
+        "genre": "Sci-Fi",
+        "year": 1971,
+        "rating": 9.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_154",
+        "genre": "Drama",
+        "year": 1971,
+        "rating": 6.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_155",
+        "genre": "Adventure",
+        "year": 1995,
+        "rating": 5.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_156",
+        "genre": "Fantasy",
+        "year": 2014,
+        "rating": 5.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_157",
+        "genre": "Horror",
+        "year": 2020,
+        "rating": 8.7,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_158",
+        "genre": "Drama",
+        "year": 1991,
+        "rating": 8.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_159",
+        "genre": "Action",
+        "year": 2015,
+        "rating": 5.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_160",
+        "genre": "Comedy",
+        "year": 1971,
+        "rating": 8.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_161",
+        "genre": "Action",
+        "year": 1978,
+        "rating": 6.2,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_162",
+        "genre": "Sci-Fi",
+        "year": 1975,
+        "rating": 7.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_163",
+        "genre": "Drama",
+        "year": 1986,
+        "rating": 5.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_164",
+        "genre": "Horror",
+        "year": 1988,
+        "rating": 5.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_165",
+        "genre": "Horror",
+        "year": 2018,
+        "rating": 6.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_166",
+        "genre": "Crime",
+        "year": 1993,
+        "rating": 8.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_167",
+        "genre": "Crime",
+        "year": 1983,
+        "rating": 7.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_168",
+        "genre": "Action",
+        "year": 1998,
+        "rating": 7.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_169",
+        "genre": "Comedy",
+        "year": 2021,
+        "rating": 6.7,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_170",
+        "genre": "Action",
+        "year": 2012,
+        "rating": 6.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_171",
+        "genre": "Drama",
+        "year": 2006,
+        "rating": 8.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_172",
+        "genre": "Sci-Fi",
+        "year": 2000,
+        "rating": 8.1,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_173",
+        "genre": "Adventure",
+        "year": 2022,
+        "rating": 8.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_174",
+        "genre": "Adventure",
+        "year": 1972,
+        "rating": 8.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_175",
+        "genre": "Drama",
+        "year": 1999,
+        "rating": 5.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_176",
+        "genre": "Comedy",
+        "year": 1976,
+        "rating": 8.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_177",
+        "genre": "Fantasy",
+        "year": 1993,
+        "rating": 7.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_178",
+        "genre": "Horror",
+        "year": 1978,
+        "rating": 5.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_179",
+        "genre": "Adventure",
+        "year": 1992,
+        "rating": 8.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_180",
+        "genre": "Sci-Fi",
+        "year": 1976,
+        "rating": 9.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_181",
+        "genre": "Crime",
+        "year": 1980,
+        "rating": 6.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_182",
+        "genre": "Comedy",
+        "year": 2011,
+        "rating": 9.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_183",
+        "genre": "Drama",
+        "year": 2013,
+        "rating": 9.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_184",
+        "genre": "Action",
+        "year": 1972,
+        "rating": 6.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_185",
+        "genre": "Fantasy",
+        "year": 1978,
+        "rating": 9.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_186",
+        "genre": "Drama",
+        "year": 1979,
+        "rating": 9.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_187",
+        "genre": "Crime",
+        "year": 2015,
+        "rating": 8.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_188",
+        "genre": "Horror",
+        "year": 2002,
+        "rating": 9.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_189",
+        "genre": "Fantasy",
+        "year": 2015,
+        "rating": 5.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_190",
+        "genre": "Sci-Fi",
+        "year": 2018,
+        "rating": 9.6,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_191",
+        "genre": "Comedy",
+        "year": 2017,
+        "rating": 5.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_192",
+        "genre": "Comedy",
+        "year": 1997,
+        "rating": 5.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_193",
+        "genre": "Drama",
+        "year": 1993,
+        "rating": 9.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_194",
+        "genre": "Drama",
+        "year": 2013,
+        "rating": 7.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_195",
+        "genre": "Fantasy",
+        "year": 1982,
+        "rating": 9.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_196",
+        "genre": "Comedy",
+        "year": 2008,
+        "rating": 7.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_197",
+        "genre": "Drama",
+        "year": 2011,
+        "rating": 7.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_198",
+        "genre": "Action",
+        "year": 1978,
+        "rating": 8.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_199",
+        "genre": "Crime",
+        "year": 2013,
+        "rating": 6.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_200",
+        "genre": "Comedy",
+        "year": 2018,
+        "rating": 8.1,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_201",
+        "genre": "Crime",
+        "year": 1996,
+        "rating": 9.9,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_202",
+        "genre": "Action",
+        "year": 2020,
+        "rating": 9.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_203",
+        "genre": "Fantasy",
+        "year": 2005,
+        "rating": 7.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_204",
+        "genre": "Horror",
+        "year": 1982,
+        "rating": 5.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_205",
+        "genre": "Horror",
+        "year": 2001,
+        "rating": 9.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_206",
+        "genre": "Sci-Fi",
+        "year": 1974,
+        "rating": 6.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_207",
+        "genre": "Fantasy",
+        "year": 1981,
+        "rating": 7.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_208",
+        "genre": "Horror",
+        "year": 2007,
+        "rating": 8.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_209",
+        "genre": "Drama",
+        "year": 1970,
+        "rating": 6.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_210",
+        "genre": "Comedy",
+        "year": 2005,
+        "rating": 6.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_211",
+        "genre": "Horror",
+        "year": 1997,
+        "rating": 8.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_212",
+        "genre": "Adventure",
+        "year": 1997,
+        "rating": 9.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_213",
+        "genre": "Fantasy",
+        "year": 2013,
+        "rating": 8.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_214",
+        "genre": "Adventure",
+        "year": 1989,
+        "rating": 8.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_215",
+        "genre": "Comedy",
+        "year": 1974,
+        "rating": 8.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_216",
+        "genre": "Drama",
+        "year": 1993,
+        "rating": 9.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_217",
+        "genre": "Comedy",
+        "year": 1994,
+        "rating": 8.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_218",
+        "genre": "Crime",
+        "year": 1970,
+        "rating": 9.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_219",
+        "genre": "Sci-Fi",
+        "year": 2000,
+        "rating": 8.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_220",
+        "genre": "Drama",
+        "year": 1998,
+        "rating": 7.6,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_221",
+        "genre": "Sci-Fi",
+        "year": 2003,
+        "rating": 6.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_222",
+        "genre": "Sci-Fi",
+        "year": 1994,
+        "rating": 6.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_223",
+        "genre": "Fantasy",
+        "year": 1984,
+        "rating": 9.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_224",
+        "genre": "Sci-Fi",
+        "year": 1997,
+        "rating": 5.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_225",
+        "genre": "Comedy",
+        "year": 1997,
+        "rating": 8.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_226",
+        "genre": "Crime",
+        "year": 1996,
+        "rating": 7.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_227",
+        "genre": "Crime",
+        "year": 1981,
+        "rating": 5.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_228",
+        "genre": "Sci-Fi",
+        "year": 1979,
+        "rating": 9.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_229",
+        "genre": "Crime",
+        "year": 1985,
+        "rating": 8.1,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_230",
+        "genre": "Adventure",
+        "year": 2000,
+        "rating": 5.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_231",
+        "genre": "Adventure",
+        "year": 1997,
+        "rating": 7.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_232",
+        "genre": "Horror",
+        "year": 1992,
+        "rating": 5.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_233",
+        "genre": "Fantasy",
+        "year": 1984,
+        "rating": 9.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_234",
+        "genre": "Sci-Fi",
+        "year": 1987,
+        "rating": 9.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_235",
+        "genre": "Crime",
+        "year": 1998,
+        "rating": 7.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_236",
+        "genre": "Crime",
+        "year": 2021,
+        "rating": 9.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_237",
+        "genre": "Comedy",
+        "year": 2003,
+        "rating": 7.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_238",
+        "genre": "Sci-Fi",
+        "year": 2001,
+        "rating": 7.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_239",
+        "genre": "Drama",
+        "year": 2014,
+        "rating": 8.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_240",
+        "genre": "Adventure",
+        "year": 2015,
+        "rating": 7.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_241",
+        "genre": "Crime",
+        "year": 1998,
+        "rating": 9.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_242",
+        "genre": "Sci-Fi",
+        "year": 1992,
+        "rating": 7.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_243",
+        "genre": "Crime",
+        "year": 1993,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_244",
+        "genre": "Adventure",
+        "year": 2008,
+        "rating": 9.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_245",
+        "genre": "Sci-Fi",
+        "year": 1997,
+        "rating": 8.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_246",
+        "genre": "Sci-Fi",
+        "year": 2015,
+        "rating": 7.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_247",
+        "genre": "Horror",
+        "year": 1972,
+        "rating": 5.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_248",
+        "genre": "Crime",
+        "year": 1971,
+        "rating": 5.7,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_249",
+        "genre": "Sci-Fi",
+        "year": 1986,
+        "rating": 5.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_250",
+        "genre": "Horror",
+        "year": 2022,
+        "rating": 5.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_251",
+        "genre": "Drama",
+        "year": 2022,
+        "rating": 7.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_252",
+        "genre": "Crime",
+        "year": 2005,
+        "rating": 6.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_253",
+        "genre": "Drama",
+        "year": 1999,
+        "rating": 8.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_254",
+        "genre": "Fantasy",
+        "year": 1991,
+        "rating": 8.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_255",
+        "genre": "Fantasy",
+        "year": 2009,
+        "rating": 8.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_256",
+        "genre": "Sci-Fi",
+        "year": 1984,
+        "rating": 8.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_257",
+        "genre": "Crime",
+        "year": 2015,
+        "rating": 5.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_258",
+        "genre": "Comedy",
+        "year": 2012,
+        "rating": 7.7,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_259",
+        "genre": "Crime",
+        "year": 1991,
+        "rating": 8.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_260",
+        "genre": "Sci-Fi",
+        "year": 2012,
+        "rating": 6.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_261",
+        "genre": "Sci-Fi",
+        "year": 2017,
+        "rating": 7.3,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_262",
+        "genre": "Adventure",
+        "year": 1992,
+        "rating": 6.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_263",
+        "genre": "Crime",
+        "year": 2003,
+        "rating": 6.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_264",
+        "genre": "Fantasy",
+        "year": 2004,
+        "rating": 9.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_265",
+        "genre": "Action",
+        "year": 2019,
+        "rating": 7.9,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_266",
+        "genre": "Comedy",
+        "year": 2009,
+        "rating": 5.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_267",
+        "genre": "Crime",
+        "year": 2014,
+        "rating": 6.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_268",
+        "genre": "Action",
+        "year": 1996,
+        "rating": 8.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_269",
+        "genre": "Action",
+        "year": 2019,
+        "rating": 6.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_270",
+        "genre": "Adventure",
+        "year": 2006,
+        "rating": 8.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_271",
+        "genre": "Horror",
+        "year": 1990,
+        "rating": 9.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_272",
+        "genre": "Action",
+        "year": 1971,
+        "rating": 8.1,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_273",
+        "genre": "Horror",
+        "year": 2004,
+        "rating": 7.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_274",
+        "genre": "Comedy",
+        "year": 2005,
+        "rating": 9.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_275",
+        "genre": "Sci-Fi",
+        "year": 1976,
+        "rating": 7.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_276",
+        "genre": "Comedy",
+        "year": 2022,
+        "rating": 5.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_277",
+        "genre": "Crime",
+        "year": 2014,
+        "rating": 7.4,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_278",
+        "genre": "Action",
+        "year": 2001,
+        "rating": 7.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_279",
+        "genre": "Sci-Fi",
+        "year": 1988,
+        "rating": 8.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_280",
+        "genre": "Horror",
+        "year": 2023,
+        "rating": 5.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_281",
+        "genre": "Comedy",
+        "year": 1996,
+        "rating": 7.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_282",
+        "genre": "Comedy",
+        "year": 1979,
+        "rating": 7.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_283",
+        "genre": "Adventure",
+        "year": 1979,
+        "rating": 8.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_284",
+        "genre": "Fantasy",
+        "year": 1989,
+        "rating": 8.1,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_285",
+        "genre": "Crime",
+        "year": 2008,
+        "rating": 6.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_286",
+        "genre": "Fantasy",
+        "year": 1998,
+        "rating": 5.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_287",
+        "genre": "Comedy",
+        "year": 1997,
+        "rating": 9.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_288",
+        "genre": "Drama",
+        "year": 1973,
+        "rating": 6.8,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_289",
+        "genre": "Action",
+        "year": 1998,
+        "rating": 7.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_290",
+        "genre": "Drama",
+        "year": 2000,
+        "rating": 9.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_291",
+        "genre": "Comedy",
+        "year": 2015,
+        "rating": 9.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_292",
+        "genre": "Fantasy",
+        "year": 2007,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_293",
+        "genre": "Adventure",
+        "year": 1998,
+        "rating": 7.7,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_294",
+        "genre": "Comedy",
+        "year": 1997,
+        "rating": 9.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_295",
+        "genre": "Crime",
+        "year": 2016,
+        "rating": 8.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_296",
+        "genre": "Drama",
+        "year": 1997,
+        "rating": 8.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_297",
+        "genre": "Fantasy",
+        "year": 2014,
+        "rating": 8.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_298",
+        "genre": "Horror",
+        "year": 2020,
+        "rating": 7.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_299",
+        "genre": "Crime",
+        "year": 2004,
+        "rating": 9.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_300",
+        "genre": "Action",
+        "year": 2004,
+        "rating": 7.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_301",
+        "genre": "Horror",
+        "year": 2010,
+        "rating": 5.1,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_302",
+        "genre": "Fantasy",
+        "year": 1973,
+        "rating": 7.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_303",
+        "genre": "Drama",
+        "year": 2010,
+        "rating": 5.8,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_304",
+        "genre": "Horror",
+        "year": 2016,
+        "rating": 9.1,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_305",
+        "genre": "Comedy",
+        "year": 2019,
+        "rating": 7.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_306",
+        "genre": "Drama",
+        "year": 1981,
+        "rating": 6.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_307",
+        "genre": "Action",
+        "year": 2012,
+        "rating": 7.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_308",
+        "genre": "Action",
+        "year": 2017,
+        "rating": 9.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_309",
+        "genre": "Comedy",
+        "year": 2011,
+        "rating": 8.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_310",
+        "genre": "Fantasy",
+        "year": 1980,
+        "rating": 5.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_311",
+        "genre": "Crime",
+        "year": 2016,
+        "rating": 7.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_312",
+        "genre": "Sci-Fi",
+        "year": 1978,
+        "rating": 7.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_313",
+        "genre": "Horror",
+        "year": 2012,
+        "rating": 5.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_314",
+        "genre": "Sci-Fi",
+        "year": 2011,
+        "rating": 9.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_315",
+        "genre": "Fantasy",
+        "year": 2021,
+        "rating": 6.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_316",
+        "genre": "Comedy",
+        "year": 2000,
+        "rating": 9.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_317",
+        "genre": "Action",
+        "year": 1993,
+        "rating": 6.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_318",
+        "genre": "Drama",
+        "year": 1991,
+        "rating": 8.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_319",
+        "genre": "Sci-Fi",
+        "year": 2022,
+        "rating": 6.1,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_320",
+        "genre": "Crime",
+        "year": 1978,
+        "rating": 5.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_321",
+        "genre": "Adventure",
+        "year": 1975,
+        "rating": 5.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_322",
+        "genre": "Adventure",
+        "year": 1982,
+        "rating": 9.9,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_323",
+        "genre": "Comedy",
+        "year": 1975,
+        "rating": 5.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_324",
+        "genre": "Action",
+        "year": 2010,
+        "rating": 6.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_325",
+        "genre": "Drama",
+        "year": 1976,
+        "rating": 9.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_326",
+        "genre": "Horror",
+        "year": 1984,
+        "rating": 7.3,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_327",
+        "genre": "Crime",
+        "year": 2014,
+        "rating": 8.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_328",
+        "genre": "Comedy",
+        "year": 1996,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_329",
+        "genre": "Crime",
+        "year": 2002,
+        "rating": 5.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_330",
+        "genre": "Drama",
+        "year": 1982,
+        "rating": 6.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_331",
+        "genre": "Adventure",
+        "year": 1996,
+        "rating": 6.7,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_332",
+        "genre": "Action",
+        "year": 1980,
+        "rating": 7.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_333",
+        "genre": "Fantasy",
+        "year": 2000,
+        "rating": 7.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_334",
+        "genre": "Action",
+        "year": 2010,
+        "rating": 6.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_335",
+        "genre": "Crime",
+        "year": 2021,
+        "rating": 6.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_336",
+        "genre": "Horror",
+        "year": 1986,
+        "rating": 8.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_337",
+        "genre": "Crime",
+        "year": 2012,
+        "rating": 9.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_338",
+        "genre": "Sci-Fi",
+        "year": 2006,
+        "rating": 9.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_339",
+        "genre": "Adventure",
+        "year": 1976,
+        "rating": 8.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_340",
+        "genre": "Horror",
+        "year": 1975,
+        "rating": 9.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_341",
+        "genre": "Sci-Fi",
+        "year": 1988,
+        "rating": 5.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_342",
+        "genre": "Fantasy",
+        "year": 1979,
+        "rating": 8.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_343",
+        "genre": "Sci-Fi",
+        "year": 1998,
+        "rating": 7.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_344",
+        "genre": "Horror",
+        "year": 1987,
+        "rating": 8.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_345",
+        "genre": "Crime",
+        "year": 1988,
+        "rating": 6.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_346",
+        "genre": "Sci-Fi",
+        "year": 2012,
+        "rating": 7.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_347",
+        "genre": "Crime",
+        "year": 1980,
+        "rating": 7.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_348",
+        "genre": "Sci-Fi",
+        "year": 2022,
+        "rating": 5.3,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_349",
+        "genre": "Crime",
+        "year": 2002,
+        "rating": 8.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_350",
+        "genre": "Horror",
+        "year": 2014,
+        "rating": 8.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_351",
+        "genre": "Sci-Fi",
+        "year": 1983,
+        "rating": 7.3,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_352",
+        "genre": "Crime",
+        "year": 1988,
+        "rating": 6.3,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_353",
+        "genre": "Crime",
+        "year": 2019,
+        "rating": 9.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_354",
+        "genre": "Fantasy",
+        "year": 1986,
+        "rating": 6.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_355",
+        "genre": "Crime",
+        "year": 1977,
+        "rating": 5.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_356",
+        "genre": "Crime",
+        "year": 1998,
+        "rating": 6.9,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_357",
+        "genre": "Adventure",
+        "year": 2005,
+        "rating": 6.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_358",
+        "genre": "Drama",
+        "year": 1975,
+        "rating": 7.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_359",
+        "genre": "Crime",
+        "year": 1990,
+        "rating": 8.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_360",
+        "genre": "Adventure",
+        "year": 2012,
+        "rating": 5.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_361",
+        "genre": "Action",
+        "year": 2010,
+        "rating": 7.4,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_362",
+        "genre": "Drama",
+        "year": 1996,
+        "rating": 7.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_363",
+        "genre": "Horror",
+        "year": 2007,
+        "rating": 5.8,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_364",
+        "genre": "Horror",
+        "year": 1973,
+        "rating": 7.4,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_365",
+        "genre": "Horror",
+        "year": 2022,
+        "rating": 9.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_366",
+        "genre": "Fantasy",
+        "year": 2008,
+        "rating": 9.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_367",
+        "genre": "Action",
+        "year": 1987,
+        "rating": 8.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_368",
+        "genre": "Crime",
+        "year": 2006,
+        "rating": 5.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_369",
+        "genre": "Fantasy",
+        "year": 2006,
+        "rating": 8.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_370",
+        "genre": "Horror",
+        "year": 2000,
+        "rating": 6.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_371",
+        "genre": "Horror",
+        "year": 1982,
+        "rating": 6.9,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_372",
+        "genre": "Adventure",
+        "year": 1978,
+        "rating": 7.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_373",
+        "genre": "Action",
+        "year": 2023,
+        "rating": 7.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_374",
+        "genre": "Sci-Fi",
+        "year": 1972,
+        "rating": 9.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_375",
+        "genre": "Horror",
+        "year": 2019,
+        "rating": 5.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_376",
+        "genre": "Horror",
+        "year": 1992,
+        "rating": 9.7,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_377",
+        "genre": "Sci-Fi",
+        "year": 2019,
+        "rating": 8.9,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_378",
+        "genre": "Fantasy",
+        "year": 1994,
+        "rating": 7.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_379",
+        "genre": "Adventure",
+        "year": 1986,
+        "rating": 5.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_380",
+        "genre": "Adventure",
+        "year": 2010,
+        "rating": 7.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_381",
+        "genre": "Comedy",
+        "year": 1974,
+        "rating": 7.2,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_382",
+        "genre": "Adventure",
+        "year": 1997,
+        "rating": 9.0,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_383",
+        "genre": "Drama",
+        "year": 1976,
+        "rating": 8.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_384",
+        "genre": "Fantasy",
+        "year": 1987,
+        "rating": 5.8,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_385",
+        "genre": "Horror",
+        "year": 2022,
+        "rating": 9.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_386",
+        "genre": "Sci-Fi",
+        "year": 1984,
+        "rating": 7.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_387",
+        "genre": "Crime",
+        "year": 1986,
+        "rating": 9.7,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_388",
+        "genre": "Adventure",
+        "year": 1998,
+        "rating": 8.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_389",
+        "genre": "Fantasy",
+        "year": 1978,
+        "rating": 6.2,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_390",
+        "genre": "Crime",
+        "year": 2000,
+        "rating": 9.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_391",
+        "genre": "Horror",
+        "year": 2015,
+        "rating": 5.6,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_392",
+        "genre": "Comedy",
+        "year": 1973,
+        "rating": 9.8,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_393",
+        "genre": "Crime",
+        "year": 2009,
+        "rating": 7.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_394",
+        "genre": "Adventure",
+        "year": 2006,
+        "rating": 9.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_395",
+        "genre": "Sci-Fi",
+        "year": 1982,
+        "rating": 8.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_396",
+        "genre": "Horror",
+        "year": 2001,
+        "rating": 6.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_397",
+        "genre": "Action",
+        "year": 1986,
+        "rating": 7.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_398",
+        "genre": "Comedy",
+        "year": 2000,
+        "rating": 8.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_399",
+        "genre": "Comedy",
+        "year": 2023,
+        "rating": 8.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_400",
+        "genre": "Horror",
+        "year": 2008,
+        "rating": 8.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_401",
+        "genre": "Crime",
+        "year": 1999,
+        "rating": 5.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_402",
+        "genre": "Fantasy",
+        "year": 2020,
+        "rating": 6.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_403",
+        "genre": "Crime",
+        "year": 1977,
+        "rating": 6.1,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_404",
+        "genre": "Horror",
+        "year": 1985,
+        "rating": 5.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_405",
+        "genre": "Crime",
+        "year": 1993,
+        "rating": 9.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_406",
+        "genre": "Sci-Fi",
+        "year": 2006,
+        "rating": 7.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_407",
+        "genre": "Comedy",
+        "year": 1974,
+        "rating": 7.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_408",
+        "genre": "Crime",
+        "year": 1972,
+        "rating": 8.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_409",
+        "genre": "Action",
+        "year": 2013,
+        "rating": 9.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_410",
+        "genre": "Adventure",
+        "year": 1985,
+        "rating": 5.9,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_411",
+        "genre": "Horror",
+        "year": 2021,
+        "rating": 6.6,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_412",
+        "genre": "Adventure",
+        "year": 1974,
+        "rating": 9.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_413",
+        "genre": "Adventure",
+        "year": 2018,
+        "rating": 6.0,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_414",
+        "genre": "Fantasy",
+        "year": 2009,
+        "rating": 8.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_415",
+        "genre": "Horror",
+        "year": 1978,
+        "rating": 5.6,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_416",
+        "genre": "Sci-Fi",
+        "year": 1973,
+        "rating": 8.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_417",
+        "genre": "Crime",
+        "year": 1972,
+        "rating": 8.1,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_418",
+        "genre": "Adventure",
+        "year": 1984,
+        "rating": 6.6,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_419",
+        "genre": "Adventure",
+        "year": 1980,
+        "rating": 8.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_420",
+        "genre": "Action",
+        "year": 1985,
+        "rating": 9.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_421",
+        "genre": "Action",
+        "year": 2015,
+        "rating": 9.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_422",
+        "genre": "Horror",
+        "year": 2020,
+        "rating": 6.4,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_423",
+        "genre": "Comedy",
+        "year": 1999,
+        "rating": 9.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_424",
+        "genre": "Horror",
+        "year": 1971,
+        "rating": 6.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_425",
+        "genre": "Adventure",
+        "year": 2017,
+        "rating": 8.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_426",
+        "genre": "Adventure",
+        "year": 1979,
+        "rating": 6.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_427",
+        "genre": "Sci-Fi",
+        "year": 2017,
+        "rating": 6.2,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_428",
+        "genre": "Horror",
+        "year": 2002,
+        "rating": 6.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_429",
+        "genre": "Horror",
+        "year": 1973,
+        "rating": 5.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_430",
+        "genre": "Fantasy",
+        "year": 1985,
+        "rating": 7.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_431",
+        "genre": "Adventure",
+        "year": 2023,
+        "rating": 9.6,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_432",
+        "genre": "Action",
+        "year": 1975,
+        "rating": 9.6,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_433",
+        "genre": "Crime",
+        "year": 1992,
+        "rating": 8.0,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_434",
+        "genre": "Drama",
+        "year": 2005,
+        "rating": 9.2,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_435",
+        "genre": "Drama",
+        "year": 1992,
+        "rating": 7.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_436",
+        "genre": "Crime",
+        "year": 2017,
+        "rating": 7.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_437",
+        "genre": "Horror",
+        "year": 1983,
+        "rating": 7.2,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_438",
+        "genre": "Sci-Fi",
+        "year": 1983,
+        "rating": 7.3,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_439",
+        "genre": "Comedy",
+        "year": 1996,
+        "rating": 8.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_440",
+        "genre": "Horror",
+        "year": 2002,
+        "rating": 8.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_441",
+        "genre": "Drama",
+        "year": 2019,
+        "rating": 6.7,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_442",
+        "genre": "Crime",
+        "year": 1997,
+        "rating": 5.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_443",
+        "genre": "Adventure",
+        "year": 2002,
+        "rating": 6.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_444",
+        "genre": "Fantasy",
+        "year": 1997,
+        "rating": 8.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_445",
+        "genre": "Action",
+        "year": 1984,
+        "rating": 5.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_446",
+        "genre": "Sci-Fi",
+        "year": 1999,
+        "rating": 6.5,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_447",
+        "genre": "Crime",
+        "year": 2010,
+        "rating": 5.5,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_448",
+        "genre": "Crime",
+        "year": 2010,
+        "rating": 8.8,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_449",
+        "genre": "Sci-Fi",
+        "year": 2005,
+        "rating": 8.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_450",
+        "genre": "Crime",
+        "year": 1995,
+        "rating": 6.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_451",
+        "genre": "Sci-Fi",
+        "year": 2020,
+        "rating": 6.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_452",
+        "genre": "Action",
+        "year": 2007,
+        "rating": 9.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_453",
+        "genre": "Sci-Fi",
+        "year": 2013,
+        "rating": 5.1,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_454",
+        "genre": "Adventure",
+        "year": 1991,
+        "rating": 6.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_455",
+        "genre": "Comedy",
+        "year": 2012,
+        "rating": 6.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_456",
+        "genre": "Sci-Fi",
+        "year": 1988,
+        "rating": 5.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_457",
+        "genre": "Horror",
+        "year": 1996,
+        "rating": 9.8,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_458",
+        "genre": "Fantasy",
+        "year": 2020,
+        "rating": 6.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_459",
+        "genre": "Drama",
+        "year": 2005,
+        "rating": 9.3,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_460",
+        "genre": "Adventure",
+        "year": 2003,
+        "rating": 9.5,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_461",
+        "genre": "Adventure",
+        "year": 2015,
+        "rating": 5.3,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_462",
+        "genre": "Action",
+        "year": 2007,
+        "rating": 5.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_463",
+        "genre": "Horror",
+        "year": 1989,
+        "rating": 7.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_464",
+        "genre": "Crime",
+        "year": 2006,
+        "rating": 7.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_465",
+        "genre": "Drama",
+        "year": 1984,
+        "rating": 8.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_466",
+        "genre": "Fantasy",
+        "year": 1971,
+        "rating": 7.1,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_467",
+        "genre": "Fantasy",
+        "year": 2019,
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_468",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "rating": 7.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_469",
+        "genre": "Sci-Fi",
+        "year": 2018,
+        "rating": 8.2,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_470",
+        "genre": "Drama",
+        "year": 2017,
+        "rating": 7.4,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_471",
+        "genre": "Drama",
+        "year": 1973,
+        "rating": 8.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_472",
+        "genre": "Sci-Fi",
+        "year": 1971,
+        "rating": 8.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_473",
+        "genre": "Fantasy",
+        "year": 1977,
+        "rating": 7.4,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_474",
+        "genre": "Drama",
+        "year": 1973,
+        "rating": 5.6,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_475",
+        "genre": "Comedy",
+        "year": 2004,
+        "rating": 5.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_476",
+        "genre": "Adventure",
+        "year": 1973,
+        "rating": 8.2,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_477",
+        "genre": "Adventure",
+        "year": 2004,
+        "rating": 8.4,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_478",
+        "genre": "Crime",
+        "year": 2020,
+        "rating": 8.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_479",
+        "genre": "Action",
+        "year": 1993,
+        "rating": 8.4,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_480",
+        "genre": "Comedy",
+        "year": 1996,
+        "rating": 5.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_481",
+        "genre": "Sci-Fi",
+        "year": 1970,
+        "rating": 6.1,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_482",
+        "genre": "Crime",
+        "year": 2006,
+        "rating": 9.9,
+        "director": "James Cameron"
+    },
+    {
+        "title": "Movie_483",
+        "genre": "Sci-Fi",
+        "year": 1984,
+        "rating": 8.7,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_484",
+        "genre": "Adventure",
+        "year": 2002,
+        "rating": 8.5,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_485",
+        "genre": "Comedy",
+        "year": 1992,
+        "rating": 9.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_486",
+        "genre": "Sci-Fi",
+        "year": 2019,
+        "rating": 9.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_487",
+        "genre": "Horror",
+        "year": 1986,
+        "rating": 6.7,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_488",
+        "genre": "Fantasy",
+        "year": 2021,
+        "rating": 6.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_489",
+        "genre": "Drama",
+        "year": 1971,
+        "rating": 5.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_490",
+        "genre": "Horror",
+        "year": 2016,
+        "rating": 9.1,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_491",
+        "genre": "Horror",
+        "year": 1971,
+        "rating": 8.4,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "title": "Movie_492",
+        "genre": "Sci-Fi",
+        "year": 1982,
+        "rating": 8.4,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_493",
+        "genre": "Sci-Fi",
+        "year": 1984,
+        "rating": 6.8,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_494",
+        "genre": "Action",
+        "year": 1977,
+        "rating": 9.1,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_495",
+        "genre": "Horror",
+        "year": 1983,
+        "rating": 9.3,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "Movie_496",
+        "genre": "Crime",
+        "year": 1973,
+        "rating": 7.9,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_497",
+        "genre": "Drama",
+        "year": 1990,
+        "rating": 8.5,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Movie_498",
+        "genre": "Crime",
+        "year": 1993,
+        "rating": 8.0,
+        "director": "Ridley Scott"
+    },
+    {
+        "title": "Movie_499",
+        "genre": "Adventure",
+        "year": 2015,
+        "rating": 9.8,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Movie_500",
+        "genre": "Horror",
+        "year": 2006,
+        "rating": 8.2,
+        "director": "Christopher Nolan"
+    }
+]

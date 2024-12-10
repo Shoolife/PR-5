@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "James Cameron",
+        "avg_rating": 7.6617977528089884
+    },
+    {
+        "_id": "Christopher Nolan",
+        "avg_rating": 7.3575
+    },
+    {
+        "_id": "Quentin Tarantino",
+        "avg_rating": 7.4685393258426975
+    },
+    {
+        "_id": "Steven Spielberg",
+        "avg_rating": 7.718918918918919
+    },
+    {
+        "_id": "Francis Ford Coppola",
+        "avg_rating": 7.587628865979381
+    },
+    {
+        "_id": "Ridley Scott",
+        "avg_rating": 7.529577464788733
+    }
+]

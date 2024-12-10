@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "Comedy",
+        "count": 54
+    },
+    {
+        "_id": "Action",
+        "count": 49
+    },
+    {
+        "_id": "Horror",
+        "count": 76
+    },
+    {
+        "_id": "Fantasy",
+        "count": 66
+    },
+    {
+        "_id": "Sci-Fi",
+        "count": 68
+    },
+    {
+        "_id": "Adventure",
+        "count": 60
+    },
+    {
+        "_id": "Drama",
+        "count": 53
+    },
+    {
+        "_id": "Crime",
+        "count": 74
+    }
+]

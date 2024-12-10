@@ -1,0 +1,19 @@
+[
+    {
+        "_id": null,
+        "min_age": 18,
+        "max_salary_min_age": [
+            {
+                "_id": {
+                    "$oid": "67587bafd37be1091e33ba0e"
+                },
+                "job": "Водитель",
+                "salary": 198736,
+                "id": 3180094,
+                "city": "Тирана",
+                "year": 2011,
+                "age": 18
+            }
+        ]
+    }
+]

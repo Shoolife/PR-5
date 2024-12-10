@@ -1,0 +1,19 @@
+[
+    {
+        "_id": null,
+        "max_age": 65,
+        "min_salary_max_age": [
+            {
+                "_id": {
+                    "$oid": "67587bafd37be1091e33ba9e"
+                },
+                "job": "Водитель",
+                "salary": 21681,
+                "id": 3679016,
+                "city": "Бланес",
+                "year": 2001,
+                "age": 65
+            }
+        ]
+    }
+]
